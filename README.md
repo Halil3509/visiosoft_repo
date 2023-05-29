@@ -1,4 +1,4 @@
-Merhabalar, ben Halil İbrahim. Yukarıda bahsettiğim sistem, sokaktaki levhaların (Information Gate) ve Mağaza yazılarının (Shop Sign) tespit işlemini içemektedir. Bu uygulamasının yapımında object detection modeli olarak 
+Merhabalar, ben Halil İbrahim. Yukarıda bahsettiğim sistem, sokaktaki levhaların (Information Plate) ve Mağaza yazılarının (Shop Sign) tespit işlemini içemektedir. Bu uygulamasının yapımında object detection modeli olarak 
 Yolov5 modelini kullandım. 
 
 <h3> Yolov5 nedir?  </h3> </br>

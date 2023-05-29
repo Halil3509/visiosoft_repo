@@ -36,5 +36,6 @@ Tahmin edilen çerçeve koordinatları, bölgenin orijinal görüntü koordinatl
 2. Ardından konsola <i> python prediction_script.py </i> yazarak default parametreler üzerinden prediction işlemimizi gerçekleştirebiliriz. </br>
 3. Örnek olarak bir model ağırlığını parametre olarak verecek olursak: <i> python prediction_script.py --weights path/to/best.pt </i> </br>
 
+<img src ="https://github.com/Halil3509/visiosoft_repo/blob/main/results_5/val_batch1_pred.jpg?raw=true">
 
 
